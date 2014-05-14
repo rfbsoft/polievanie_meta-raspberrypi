@@ -1,4 +1,6 @@
-DEFAULTTUNE ?= "armv6"
+#DEFAULTTUNE ?= "armv6"
+DEFAULTTUNE ?= "arm1176jzfshf"
+
 
 require conf/machine/include/arm/arch-armv6.inc
 
