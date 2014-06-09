@@ -10,4 +10,5 @@ IMAGE_INSTALL += " \
 	iptables \
 	perl \
 	i2c-tools \
+	evtest \
 "
