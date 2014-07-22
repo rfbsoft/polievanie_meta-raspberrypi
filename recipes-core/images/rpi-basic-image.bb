@@ -11,4 +11,6 @@ IMAGE_INSTALL += " \
 	perl \
 	i2c-tools \
 	evtest \
+	rpm \
+	watchdog \
 "
