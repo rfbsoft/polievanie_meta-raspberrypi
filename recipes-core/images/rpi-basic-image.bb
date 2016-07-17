@@ -25,4 +25,9 @@ IMAGE_INSTALL += " \
 	e2fsprogs \
 	dosfstools \
 	openssh-sftp-server \
+	ntp \
+	ntp-utils \
+	resolvconf \
+	cronie \
+	boost \
 "
